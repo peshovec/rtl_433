@@ -181,7 +181,7 @@ add_library(r_433 STATIC
     devices/new_template.c
     devices/newkaku.c
     devices/nexa.c
-    devices/nexus.c
+    devices/RTLnexus.c
     devices/nice_flor_s.c
     devices/norgo.c
     devices/oil_smart.c
@@ -215,7 +215,7 @@ add_library(r_433 STATIC
     devices/secplus_v1.c
     devices/secplus_v2.c
     devices/sharp_spc775.c
-    devices/silvercrest.c
+    devices/RTLsilvercrest.c
     devices/simplisafe.c
     devices/simplisafe_gen3.c
     devices/smoke_gs558.c

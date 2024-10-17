@@ -8,7 +8,7 @@
 #include "r_device.h"
 
 #define DEVICES \
-    DECL(silvercrest) \
+    DECL(RTLsilvercrest) \
     DECL(rubicson) \
     DECL(prologue) \
     DECL(waveman) \
@@ -26,7 +26,7 @@
     DECL(alectov1) \
     DECL(cardin) \
     DECL(fineoffset_WH2) \
-    DECL(nexus) \
+    DECL(RTLnexus) \
     DECL(ambient_weather) \
     DECL(calibeur_RF104) \
     DECL(X10_RF) \
